@@ -15,24 +15,24 @@ Press Command + Spacebar to open Spotlight Search on your Mac. Type "TextEdit.ap
 <img src="https://imgur.com/ufzeIsd.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
 <br />
 <br />
-[Enter Text] <br/>
+Type your desired text. When completed, go to the top of your Mac screen and click on "TextEdit" in the menu bar. Then, select "Settings".<br/>
 <img src="https://imgur.com/SET4bBb.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
 <br />
 <br />
-[Enter Text] <br/>
+In the settings menu, ensure that 'Plain Text' is selected. Once confirmed, save your changes. You may then rename the document as desired and save it to your preferred location.<br/>
 <img src="https://imgur.com/oZ5GgHk.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
 <br />
 <br />
-[Enter Text] <br/>
+On the Azure homepage, navigate to and select "Storage Accounts" to open the service.<br/>
 <img src="https://imgur.com/oAqv66E.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
 <br />
 <br />
-[Enter Text] <br/>
+From the list of storage accounts, select the one desired. Enter to access its configuration and settings.<br/>
 <img src="https://imgur.com/AXz3ZMc.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
 <br />
 <br />
-[Enter Text] <br/>
-<img src="https://imgur.com/xbW6tEa.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
+Navigate to the "Containers" section within the settings of the desired storage account. Create a new container.<br/>
+<img src="https://imgur.com/OKGKvrq.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
 <br />
 <br />
 [Enter Text] <br/>
