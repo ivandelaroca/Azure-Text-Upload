@@ -35,27 +35,27 @@ Navigate to the "Containers" section within the settings of the desired storage 
 <img src="https://imgur.com/OKGKvrq.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
 <br />
 <br />
-[Enter Text] <br/>
+Enter a desired name for the container. Click the blue "Create" button to proceed with creating the new container.<br/>
 <img src="https://imgur.com/OxEKjB6.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
 <br />
 <br />
-[Enter Text] <br/>
+Once the container has been created, locate it in the list of containers. Click on the container name to open its settings.<br/>
 <img src="https://imgur.com/cAUphYG.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
 <br />
 <br />
-[Enter Text] <br/>
-<img src="https://imgur.com/DrhYAtY.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
+Click the "Upload" button to select the text file you prepared in the previous steps. Once selected, click the blue "Upload" button to confirm and begin the upload process.<br/>
+<img src="https://imgur.com/Bdel5CZ.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
 <br />
 <br />
-[Enter Text] <br/>
+After the text file has been uploaded, click the three-dot menu (⋮) next to the file, then select "View/Edit" to open and modify the contents of the text file.<br/>
 <img src="https://imgur.com/GWifOX2.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
 <br />
 <br />
-[Enter Text] <br/>
+You can now edit the text file directly within the Azure container. Make any necessary changes, and when you're finished, click the "Save" button to apply your updates.<br/>
 <img src="https://imgur.com/z4Ioq1t.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
 <br />
 <br />
-[Enter Text] <br/>
+Locate the updated text file in the download location on your Mac. Rename the file as desired. You have now successfully uploaded and edited a text file in Azure.<br/>
 <img src="https://imgur.com/yvwN2mP.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
 
 </p>
