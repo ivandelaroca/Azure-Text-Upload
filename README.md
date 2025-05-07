@@ -19,7 +19,7 @@ Type your desired text. When completed, go to the top of your Mac screen and cli
 <img src="https://imgur.com/SET4bBb.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
 <br />
 <br />
-In the settings menu, ensure that 'Plain Text' is selected. Once confirmed, save your changes. You may then rename the document as desired and save it to your preferred location.<br/>
+In the settings menu, ensure that "Plain Text" is selected. Once confirmed, save your changes. You may then rename the document as desired and save it to your preferred location.<br/>
 <img src="https://imgur.com/oZ5GgHk.png" height="80%" width="80%" alt="Azure Resource Group Steps"/>
 <br />
 <br />
